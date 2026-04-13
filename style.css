@@ -1,0 +1,20 @@
+@import url('https://fonts.cdnfonts.com/css/muller-next-expanded-trial');
+
+* {
+  box-sizing: border-box;
+  
+}
+
+body {
+      font-family: 'Muller Next Trial', sans-serif;
+}
+
+.container {
+  max-width: 1300px;
+  margin-inline: 50px;
+  margin: 0;
+  margin-inline: auto;
+}
+
+
+
