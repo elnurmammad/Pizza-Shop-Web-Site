@@ -16,5 +16,10 @@ body {
   margin-inline: auto;
 }
 
+button:hover {
+  cursor: pointer;
+}
+
+
 
 
